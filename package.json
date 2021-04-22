@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KeldiyorKeldi/onlineStore/issues"
   },
-  "homepage": "https://github.com/KeldiyorKeldi/onlineStore#readme"
+  "homepage": "https://github.com/KeldiyorKeldi/onlineStore#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
